@@ -30,9 +30,10 @@
   
   Mechanics/Systems I've built (To name a few) include:
   <ul>
-    <li>Basic movement</li>
-    <li>Advanced finite state machines</li>
-    <li>Behavior trees</li>
-    <li>Hit-scan shooting & interaction</li>
+    <li>Minimal advanced movement 🏃‍♂️‍➡️</li>
+    <li>Advanced finite state machines 🧩</li>
+    <li>Behavior trees 🌴</li>
+    <li>Hit-scan shooting 🔫</li>
+    <li>Basic interaction 🤚</li>
   </ul>
 </p>
