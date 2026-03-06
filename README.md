@@ -19,6 +19,12 @@
 
 <h2 align="start">The Stack</h2>
 <p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" />
+
   I use Godot with C# as my game engine of choice as it provides a solid out-of-the-box set of tools
   that allow me to easily facilitate my style of development while still leaving plenty of room to
   fiddle with lower level concepts.
