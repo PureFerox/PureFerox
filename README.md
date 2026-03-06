@@ -28,11 +28,12 @@
   At the moment, I'm focused on building a 3D first-person template project with
   basic video game mechanics using modular components.
   
-  Mechanics/Systems I've built (to name a few) include:
+  Mechanics/Systems I've built (To name a few) include:
   <ul>
     <li>Basic movement</li>
-    <li>Shooting</li>
-    <li>NPC/Item Interactions</li>
+    <li>Advanced finite state machines</li>
+    <li>Behavior trees</li>
+    <li>Hit-scan shooting & interaction</li>
   </ul>
 </p>
 
