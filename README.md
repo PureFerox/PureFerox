@@ -1,6 +1,7 @@
 <h2 align="center">📝 Overview</h2>
 <p>
   I'm an aspiring solo independent video game developer based in South Africa 🇿🇦.
+  
   I have 5+ years of professional software development experience and I love building
   large systems, especially ones with many moving parts.
 </p>
@@ -19,7 +20,6 @@
   <li>Build systems that scale</li>
   <li>Design architecture before content</li>
   <li>Focus on modular gameplay mechanics</li>
-  <li>Create reusable foundations for future games</li>
 </ul>
 
 <h2 align="center">🧰 The Stack</h2>
