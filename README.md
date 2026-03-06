@@ -1,18 +1,18 @@
 <h2 align="center">📝 Overview</h2>
 <p>
-  I'm an aspiring solo independent video game developer based in South Africa 🇿🇦.
+  I'm an aspiring solo independent video game developer based in South Africa 🇿🇦
   
   I have 5+ years of professional software development experience and I love building
-  large systems, especially ones with many moving parts.
+  large systems, especially ones with many moving parts
 </p>
 
 <h2 align="center">🎮 My Game Dev Journey</h2>
 <p>
   Video game development has been my hobby for years and I enjoy creating
-  fun and memorable player experiences.
+  fun and memorable player experiences
   
   I apply professional software architecture to game development,
-  focusing on scalability and modular systems.
+  focusing on scalability and modular systems
 </p>
 
 <h2 align="center">🎯 Development Philosophy</h2>
@@ -33,7 +33,7 @@
 <h2 align="center">⚙️ Currently Working On</h2>
 <p>
   At the moment, I'm focused on building a 3D first-person template project with
-  basic video game mechanics using modular components.
+  basic video game mechanics using modular components
   
   Mechanics/Systems I've built (To name a few) include:
   <ul>
