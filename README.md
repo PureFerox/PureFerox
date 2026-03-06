@@ -36,7 +36,3 @@
     <li>Hit-scan shooting & interaction</li>
   </ul>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PureFerox&show_icons=true&theme=dark"/>
-</p>
