@@ -15,12 +15,12 @@
 </p>
 
 <h2 align="center">🎯 Development Philosophy</h2>
-<p>
-  Build systems that scale. <br>
-  Design architecture before content. <br>
-  Focus on modular gameplay mechanics. <br>
-  Create reusable foundations for future games.
-</p>
+<ul>
+  <li>Build systems that scale</li>
+  <li>Design architecture before content</li>
+  <li>Focus on modular gameplay mechanics</li>
+  <li>Create reusable foundations for future games</li>
+</ul>
 
 <h2 align="center">🧰 The Stack</h2>
 <p align="center">
