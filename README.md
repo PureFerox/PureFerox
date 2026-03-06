@@ -1,4 +1,4 @@
-<h2>📝 Overview</h2>
+<h2 align="center">📝 Overview</h2>
 <p>
   I'm an aspiring solo independent video game developer based in South Africa 🇿🇦.
   
@@ -6,7 +6,7 @@
   large systems, especially ones with many moving parts.
 </p>
 
-<h2>🎮 My Game Dev Journey</h2>
+<h2 align="center">🎮 My Game Dev Journey</h2>
 <p>
   Video game development has been my hobby for years and I enjoy creating
   fun and memorable player experiences.
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>
 </p>
 
-<h2>⚙️ Currently Working On</h2>
+<h2 align="center">⚙️ Currently Working On</h2>
 <p>
   At the moment, I'm focused on building a 3D first-person template project with
   basic video game mechanics using modular components.
