@@ -1,31 +1,24 @@
-<h2 align="start">Overview</h2>
+<h2>Overview</h2>
 <p>
-  I'm an aspiring solo independent video game developer based in South Africa.
-  I have 5+ years of professional software development experience and I love building
-  large systems, especially the types that involve numerous moving parts.
+I'm an aspiring solo independent video game developer based in South Africa 🇿🇦.
+
+I have 5+ years of professional software development experience and I love building
+large systems, especially ones with many moving parts.
 </p>
 
-<h2 align="start">My Game Dev Journey</h2>
+<h2>🎮 My Game Dev Journey</h2>
 <p>
-  Video game development has been my hobby for years and I have an avid interest in
-  creating a fun, memorable experiences that players will enjoy.
-  
-  I use my experience as a software dev in my game development ethics and paradigms by
-  creating scalable and flexible projects that are easy to manage and build upon.
-  
-  I am currently working on a few a projects that I plan to use as templates for creating
-  video games in the future.
+Video game development has been my hobby for years and I enjoy creating
+fun and memorable player experiences.
+
+I apply professional software architecture to game development,
+focusing on scalability and modular systems.
 </p>
 
-<h2 align="start">The Stack</h2>
+<h2>🧰 The Stack</h2>
 <p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" />
-
-  I use Godot with C# as my game engine of choice as it provides a solid out-of-the-box set of tools
-  that allow me to easily facilitate my style of development while still leaving plenty of room to
-  fiddle with lower level concepts.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
