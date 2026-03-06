@@ -15,8 +15,8 @@
   focusing on scalability and modular systems.
 </p>
 
-<h2>🧰 The Stack</h2>
-<p>
+<h2 align="center">🧰 The Stack</h2>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="80"/>
