@@ -17,6 +17,10 @@
   I've done many experimental projects in multiple different game engines
   and I have also built a 2D RPG game engine with C++ and SDL2 as a
   university project
+
+  While my journey isn't much at the moment, I've made significant progress
+  in another passion field of mine which is software development. I've learned
+  a lot in that endeavour and it influences my overall workflow of development.
 </p>
 
 <h2 align="center">🎯 Development Philosophy</h2>
