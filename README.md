@@ -3,6 +3,7 @@
   I'm an aspiring solo independent video game developer based in South Africa 🇿🇦.
   I've been inspired by many sources such as anime, literature and of course a plethora
   of video games that I have had the pleasure of experiencing throughout my life.
+  
   I have 5+ years of professional software development experience and I love building
   large systems, especially ones with many moving parts
 </p>
