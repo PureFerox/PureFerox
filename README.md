@@ -21,19 +21,21 @@
 
   While my journey isn't much at the moment, I've made significant progress
   in another passion field of mine which is software development. I've learned
-  a lot in that endeavour and it influences my overall workflow of development.
+  a lot in that endeavour and it influences my overall workflow
 </p>
 
 <h2 align="center">🎯 Development Philosophy</h2>
 <p>
-  I apply professional software architecture to game development,
-  focusing on scalability and modular systems
+  I apply professional software architecture to game development with a
+  focus on atomic design.
+
+  Some of the principals that I follow are to:
+  <ul>
+    <li>Build scalable systems that expand with minimal effort</li>
+    <li>Design architecture before content for easy project management</li>
+    <li>Focus on modular components and composition of entities</li>
+  </ul>
 </p>
-<ul>
-  <li>Build systems that scale</li>
-  <li>Design architecture before content</li>
-  <li>Focus on modular gameplay mechanics</li>
-</ul>
 
 <h2 align="center">🧰 The Stack</h2>
 <p align="center">
@@ -46,7 +48,7 @@
 <h2 align="center">⚙️ Currently Working On</h2>
 <p>
   At the moment, I'm focused on building a 3D first-person template project with
-  basic video game mechanics using modular components
+  basic shooter game mechanics 
   
   Mechanics/Systems I've built (To name a few) include:
   <ul>
@@ -54,6 +56,6 @@
     <li>Advanced finite state machines 🧩</li>
     <li>Behavior trees 🌴</li>
     <li>Hit-scan shooting 🔫</li>
-    <li>Basic interaction 🤚</li>
+    <li>Item/NPC interaction 🤚</li>
   </ul>
 </p>
