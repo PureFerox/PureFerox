@@ -29,11 +29,12 @@
   I apply professional software architecture to game development with a
   focus on atomic design
 
-  Some of the principals that I follow are to:
+  Some of the principals that I follow are:
   <ul>
-    <li>Build scalable systems that expand with minimal effort</li>
-    <li>Design architecture before content for easy project management</li>
-    <li>Focus on modular components and composition of entities</li>
+    <li>Build scalable systems</li>
+    <li>Design architecture before content</li>
+    <li>Focus on modular components</li>
+    <li>Enforce maintainable & agnostic design</li>
   </ul>
 </p>
 
