@@ -2,7 +2,7 @@
 <p>
   I'm an aspiring solo independent video game developer based in South Africa 🇿🇦.
   I've been inspired by many sources such as anime, literature and of course a plethora
-  of video games that I have had the pleasure of experiencing throughout my life.
+  of video games that I have had the pleasure of experiencing throughout my life
   
   I have 5+ years of professional software development experience and I love building
   large systems, especially ones with many moving parts
@@ -27,7 +27,7 @@
 <h2 align="center">🎯 Development Philosophy</h2>
 <p>
   I apply professional software architecture to game development with a
-  focus on atomic design.
+  focus on atomic design
 
   Some of the principals that I follow are to:
   <ul>
